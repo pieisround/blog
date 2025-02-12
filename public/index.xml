@@ -34,12 +34,5 @@ Source: &lt;a href=&#34;https://gohugo.io/installation/windows/&#34;&gt;https://
 &lt;/ol&gt;
 &lt;p&gt;Set name of site by editing hugo.toml file&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/2025-02-12-test/</link>
-      <pubDate>Wed, 12 Feb 2025 12:50:11 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-02-12-test/</guid>
-      <description>&lt;p&gt;This is the first test&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
