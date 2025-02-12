@@ -7,5 +7,6 @@ draft: false
 tags: []
 categories: []
 ---
+
 Remove git submodule
-'git rm <path-to-submodule>'
+'git rm [path-to-submodule]'
