@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Notes and Things</title>
+    <title>Posts on My New Hugo Site</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Notes and Things</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.143.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2025 20:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 12:50:11 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Useful GIT commands</title>
-      <link>http://localhost:1313/posts/useful-git-commands/</link>
-      <pubDate>Sun, 09 Feb 2025 20:48:07 +0000</pubDate>
-      <guid>http://localhost:1313/posts/useful-git-commands/</guid>
-      <description>&lt;p&gt;Remove git submodule&#xA;&amp;lsquo;git rm [path-to-submodule]&amp;rsquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Initial Hugo configuration</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 07 Feb 2025 13:18:05 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Source: &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;https://gohugo.io/getting-started/quick-start/&lt;/a&gt;&lt;br&gt;&#xA;Source: &lt;a href=&#34;https://gohugo.io/installation/windows/&#34;&gt;https://gohugo.io/installation/windows/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Powershell&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;winget install Hugo.Hugo.Extended&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;winget install --id Git.Git -e --source winget&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Restart Powershell&lt;/li&gt;&#xA;&lt;li&gt;Navigate to wherever the files will be located&lt;/li&gt;&#xA;&lt;li&gt;hugo new site [name of site]&lt;/li&gt;&#xA;&lt;li&gt;cd [name of site]&lt;/li&gt;&#xA;&lt;li&gt;git init&lt;/li&gt;&#xA;&lt;li&gt;Install theme &lt;code&gt;git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Set theme &lt;code&gt;echo &amp;quot;theme = &#39;ananke&#39;&amp;quot; &amp;gt;&amp;gt; hugo.toml&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Important step for setting up front matter  &amp;lsquo;hugo new content content/posts/my-first-post.md&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;To start &lt;code&gt;hugo server&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Set name of site by editing hugo.toml file&lt;/p&gt;</description>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/2025-02-12-test/</link>
+      <pubDate>Wed, 12 Feb 2025 12:50:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-02-12-test/</guid>
+      <description>&lt;p&gt;This is the first test&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
